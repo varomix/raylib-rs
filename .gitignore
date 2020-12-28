@@ -1,4 +1,5 @@
 /target
+/debug
 **/*.rs.bk
 Cargo.lock
 /.vscode
@@ -8,3 +9,5 @@ raylib-test/test_out/*
 raylib-test/storage.data
 samples/savegame
 showcase/my_amazing_texture_painting.png
+/samples/.idea/
+/samples/target/
